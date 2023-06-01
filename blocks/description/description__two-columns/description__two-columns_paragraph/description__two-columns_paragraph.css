@@ -1,0 +1,16 @@
+.description__two-columns_paragraph p{
+    line-height: 34px;
+    font-size: 24px;
+    font-style: normal;
+
+}
+
+.description__two-columns_paragraph p:nth-child(1){
+  margin-top: auto;
+
+}
+
+.description__two-columns_paragraph p:nth-child(3){
+  margin-bottom: auto;
+
+}

@@ -1,0 +1,13 @@
+.kaufman__section-title_theme_dark {
+    width:60%;
+    margin: 90px auto 20px auto;
+    position: relative;
+
+}
+
+h1{
+    text-align: center;
+    line-height: 1.15;
+    font-size: 60px;
+    font-weight: 600;
+}

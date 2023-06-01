@@ -1,0 +1,14 @@
+.resources__section-title {
+    width:60%;
+    margin: 100px auto 20px auto;
+
+}
+
+h1{
+    text-align: center;
+    line-height: 1.15;
+    font-size: 60px;
+    font-weight: 600;
+    color: black;
+    margin: auto;
+}

@@ -1,0 +1,13 @@
+.description__two-columns_brief {
+    width: 175px;
+    padding: auto;
+
+}
+
+.description__two-columns_brief a{
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+  margin-top: auto;
+  text-decoration: none;
+}

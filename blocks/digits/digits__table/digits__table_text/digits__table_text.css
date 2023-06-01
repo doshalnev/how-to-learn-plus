@@ -1,0 +1,10 @@
+.digits__table_text h3{
+    line-height:1.2;
+    font-size:18px;
+    font-weight:normal;
+    text-align:start;
+}
+
+.digits__table_text p{
+    margin-top: 20px;
+}

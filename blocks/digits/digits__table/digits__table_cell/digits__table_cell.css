@@ -1,0 +1,9 @@
+.digits__table_cell{
+    width: 250px;
+    margin: 60px auto 60px auto;
+     
+}
+
+.digits__table_cell:nth-child(n+5){
+    margin-bottom: 0;
+}
