@@ -1,8 +1,0 @@
-.techniques__cards_item{
-    width: 240px;
-    margin: 0 0 60px 0;
-    vertical-align: top;  
-}
-.techniques__cards_item:last-child{
-    margin:0;
-}

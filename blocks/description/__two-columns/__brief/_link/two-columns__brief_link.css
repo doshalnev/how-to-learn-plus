@@ -1,0 +1,9 @@
+.two-columns__brief_link{
+  text-decoration: none;
+  color: #2f80ed;
+}
+
+.two-columns__brief_link:hover{
+  opacity: 0.5;
+  transition: opacity 0.2 ease-in 0.5;
+  }
